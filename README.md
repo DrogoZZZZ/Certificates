@@ -1,1 +1,1 @@
-4 last diplomas
+diplomas of olympiads & hackathons
